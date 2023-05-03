@@ -3,7 +3,7 @@ from torch import nn
 from torch.utils.data import DataLoader, Dataset
 import pandas as pd
 from sklearn.preprocessing import PowerTransformer
-from imblearn.over_sampling import ADASYN, RandomOverSampler
+from imblearn.over_sampling import RandomOverSampler
 import optuna
 
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
