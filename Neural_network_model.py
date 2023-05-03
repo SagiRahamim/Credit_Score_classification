@@ -15,7 +15,7 @@ print(device)
 # torch.backends.cudnn.deterministic = True
 # torch.backends.cudnn.benchmark = False
 
-train_df = pd.read_csv(r'C:\Users\sagir\PycharmProjects\craditcard_jupyter_notebook\done_eda_train_df.csv')
+train_df = pd.read_csv('done_train_df.csv')
 train_df.drop('Customer_ID', axis=1, inplace=True)
 
 obj_to_num_dict = {}
