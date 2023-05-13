@@ -1,7 +1,6 @@
 # Multiclass classification problem (Credit Score classifiction)
-    Cleaning Data
-    Exploratory Data Analysis
     Data Preprocessing
+    Exploratory Data Analysis
     Feature Engineering
     
     Prediction algorithms:
