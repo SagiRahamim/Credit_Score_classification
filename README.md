@@ -13,6 +13,4 @@
 
 Libraries: Pandas | Numpy | Pytorch | Scikit-learn | Seaborn | Matplotlib | Imblearn 
 
-Kaggle Dataset: https://www.kaggle.com/datasets/parisrohan/credit-score-classification
-
 Kaggle project link: https://www.kaggle.com/code/sagirahamim3/eda-dp-fe-fcnn-rf-knn-xgb-hgdb-ensemble-acc-85#Feature-engineering-|-Credit-History-Age
